@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "hey",
+      "id": 4
+    },
+    {
+      "title": "gayu",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
